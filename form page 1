@@ -1,0 +1,104 @@
+<html>
+    <head>
+        <style>
+            div{
+                background-color: greenyellow;
+                background: indigo;
+            }
+            h3{
+                margin-left: 400px;
+                padding-top: 30px;
+            }
+            p{
+                margin-left: 350px;
+            }
+            #outside{
+                background-color:plum;
+            }
+            </style>
+        </head>
+        <body>
+            <div>
+            <h3>FreeCodeCamp Survey Form</h3>
+            <p><i>Thanku you for taking the time to help us improve the platform</i></p>
+            <br>
+            <br>
+        </div>
+        <div id="outside"> 
+        <br>
+        <br>
+           
+           <lable>Name</lable>
+            <br>
+            <br>
+            <input type="text" placeholder="Enter Your Name">
+            <br>
+            <br>
+            <lable>Email</lable>
+            <br>
+            <br>
+            <input type="text" placeholder="Enter Your Email">
+            <br>
+            <br>
+            <lable>Age(optional)</lable>
+            <br>
+            <br>
+            <input type="text" placeholder="Age">
+            <br>
+            <br> 
+            <lable>Which option best describes your current role?</lable>
+            <br> 
+            <br>   
+                <select>
+                
+                    <option>Student</option>
+                    <option>Full Time Job</option>
+                    <option>Full Time Learner</option>
+                    <option>Prefer not to say</option>
+                    <option>Other</option>
+                    </select>
+                    <br>
+<br>
+            <lable>Would you recommend freeCodeCamp to a friend?</lable>
+            <br>
+            <input type=radio >
+            <lable>Definitely</lable><br>
+            <input type=radio>
+            <lable>Maybe</lable><br>
+            <input type=radio >
+            <lable>Not sure</lable><br>
+            <br>
+            <br>
+            <lable>What is your favourite feature of freeCodeCamp?</lable>
+            <br>
+            <br>
+            <select>
+                <option>Challenges</option>
+                <option>Projects</option>
+                <option>Community</option>
+                <option>Open Source</option>
+                </select>
+                <br><br>
+                <lable>What would you like to see improved?</lable><br>
+                <lable>(Check all that apply)</lable><br><br>
+                <input type="checkbox"><label>Front-end Projects</label><br><br>
+                <input type="checkbox"><label>Back-end Projects</label><br><br>
+                <input type="checkbox"><label>Data Visualization</label><br><br>
+                <input type="checkbox"><label>Challenges</label><br><br>
+                <input type="checkbox"><label>Open Source Community</label><br><br>
+                <input type="checkbox"><label>Gitter help rooms</label><br><br>
+                <input type="checkbox"><label>Videos</label><br><br>
+                <input type="checkbox"><label>City Meetups</label><br><br>
+                <input type="checkbox"><label>Wiki</label><br><br>
+                <input type="checkbox"><label>Forum</label><br><br>
+                <input type="checkbox"><label>Additional Courses</label><br><br>
+                <lable>Any comments or suggestions?
+                <br><br>
+                <input type="textbox" placeholder="Enter your comment here...">
+                <br><br>
+                <a href="Thanku.html"><input id="b1" type="button" value="Submit"></a>
+                </div>
+
+
+                </body>
+                </html>
