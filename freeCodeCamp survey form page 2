@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <style>
+            h2{
+                margin-left: 370px;
+                margin-right: 450px;
+                margin-top: 200px;
+                background: powderblue;
+                font-size: xx-large ;
+                font-style: oblique;
+                padding-left: 20px;
+                }
+                lable{
+                    margin-left: 250;
+                    font-size: 4ch;
+                }
+                body{
+                    background-color: lightcyan;    
+                }
+            </style>
+            </head>
+            <body>
+                
+                <h2>Thank you...!!!</h2>
+                <lable><i>Your response has been submited successfully!</i></lable>
+                
+            </html>
+                </body>
+            
